@@ -1,2 +1,2 @@
 # The-Crepuscolo
- Font-end website only created with HTML, CSS, and Vanilla JavaScript.
+ Front-end website only created with HTML, CSS, and Vanilla JavaScript.
